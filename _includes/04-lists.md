@@ -1,5 +1,5 @@
 # Here is a list:
 
--  Long walks
+- Long walks
 - dancing
 - open source
